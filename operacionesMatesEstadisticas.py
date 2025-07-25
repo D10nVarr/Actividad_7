@@ -68,7 +68,7 @@ def agrupar_numeros(cant_nums):
         num = float(input("Ingrese un numero: "))
         if frec_num==num:
             cont_frec_nums+=1
-            #pendiente
+
         else:
             frec_num=num
         if num > max_num:
